@@ -1,38 +1,70 @@
-.App {
-  text-align: center;
+@font-face {
+  font-family: 'Frutiger-LT';
+  src: url('./Assets//Fonts/FrutigerLTArabic55Roman.ttf') format('truetype');
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body{
+  font-family: Frutiger-LT;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+html{
+  scroll-behavior: smooth;
+  transition: scroll 6s ease-in-out;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
 }
 
-.App-link {
-  color: #61dafb;
+
+.creative-bg{
+  background-image: url(Assets/creative-bg-01.png);
+  background-size: cover;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.creative-bg2{
+  background-image: url(Assets/creative-bg2-01.png);
+  background-size: cover;
 }
+
+.reptors-bg{
+  background-image: url('https://plus.unsplash.com/premium_photo-1664041720567-d9600c62d5d8?q=80&w=1044&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+  background-size: cover;
+}
+
+.nav-bg{
+  background-image: url('Assets/nav_creative-01.png');
+  background-size: cover;
+}
+
+.global-bg{
+  background-image: url('Assets/background-03.png');
+  background-size: cover;
+}
+
+.h-screen-2{
+  height: 200vh;
+}
+
+.relative{
+  position: relative;
+}
+
+.sticky-top-0{
+  position: sticky;
+  top:0;
+}
+
+
+
+
+/* .text-stroke{
+  -moz-text-stroke: 0.00005px #fffc!important;
+  --text-stroke: 0.00005px #fffc!important;
+  -webkit-text-stroke: 0.00005px #fffc!important;
+} */
