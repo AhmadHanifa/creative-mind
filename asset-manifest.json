@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/creative-mind/static/css/main.3d44c26c.css",
+    "main.js": "/creative-mind/static/js/main.304ed9a4.js",
+    "static/media/8.mp4": "/creative-mind/static/media/8.696b367b0c5582d51cf0.mp4",
+    "static/media/logo-3d-03.png": "/creative-mind/static/media/logo-3d-03.e06262608ce1120db389.png",
+    "static/media/card_bg-02.png": "/creative-mind/static/media/card_bg-02.bcb5eb9a6bc7c5dd5518.png",
+    "static/media/background-03.png": "/creative-mind/static/media/background-03.929d7ebed83ac24df108.png",
+    "static/media/card_creative-01.png": "/creative-mind/static/media/card_creative-01.492b933ad89eca01e957.png",
+    "static/media/nav_creative-01.png": "/creative-mind/static/media/nav_creative-01.edf0a4419d31fd133e78.png",
+    "static/media/creative-bg-01.png": "/creative-mind/static/media/creative-bg-01.85ddad98a2fc697923ff.png",
+    "static/media/creative-bg2-01.png": "/creative-mind/static/media/creative-bg2-01.796be51ffb09d9f2ee55.png",
+    "static/media/FrutigerLTArabic55Roman.ttf": "/creative-mind/static/media/FrutigerLTArabic55Roman.7b95d9859761a1dc918a.ttf",
+    "static/media/logo-white.png": "/creative-mind/static/media/logo-white.b2708d9725de1e937f69.png",
+    "static/media/instagram-01.svg": "/creative-mind/static/media/instagram-01.da0dd21dbaec97a69e8bdb350daa022f.svg",
+    "static/media/linkedin-01.svg": "/creative-mind/static/media/linkedin-01.adb8a14b3fceab0b3d69d36d315ea972.svg",
+    "index.html": "/creative-mind/index.html",
+    "static/media/youtube-01.svg": "/creative-mind/static/media/youtube-01.3f9f5a50b504732bddc098f1e5e72208.svg",
+    "static/media/facebook-01.svg": "/creative-mind/static/media/facebook-01.3a53b2b860c7cce1959dd977013a1cdc.svg",
+    "main.3d44c26c.css.map": "/creative-mind/static/css/main.3d44c26c.css.map",
+    "main.304ed9a4.js.map": "/creative-mind/static/js/main.304ed9a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d44c26c.css",
+    "static/js/main.304ed9a4.js"
+  ]
+}
