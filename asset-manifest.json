@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/creative-mind/static/css/main.fd5e318a.css",
-    "main.js": "/creative-mind/static/js/main.5c6c82a0.js",
+    "main.css": "/creative-mind/static/css/main.a281dd37.css",
+    "main.js": "/creative-mind/static/js/main.9215fbb1.js",
     "static/media/8.mp4": "/creative-mind/static/media/8.696b367b0c5582d51cf0.mp4",
     "static/media/logo-3d-03.webp": "/creative-mind/static/media/logo-3d-03.fdfb7240ad9ed8c95d2a.webp",
     "static/media/card_bg-02.png": "/creative-mind/static/media/card_bg-02.bcb5eb9a6bc7c5dd5518.png",
@@ -18,11 +18,11 @@
     "index.html": "/creative-mind/index.html",
     "static/media/youtube-01.svg": "/creative-mind/static/media/youtube-01.3f9f5a50b504732bddc098f1e5e72208.svg",
     "static/media/facebook-01.svg": "/creative-mind/static/media/facebook-01.3a53b2b860c7cce1959dd977013a1cdc.svg",
-    "main.fd5e318a.css.map": "/creative-mind/static/css/main.fd5e318a.css.map",
-    "main.5c6c82a0.js.map": "/creative-mind/static/js/main.5c6c82a0.js.map"
+    "main.a281dd37.css.map": "/creative-mind/static/css/main.a281dd37.css.map",
+    "main.9215fbb1.js.map": "/creative-mind/static/js/main.9215fbb1.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd5e318a.css",
-    "static/js/main.5c6c82a0.js"
+    "static/css/main.a281dd37.css",
+    "static/js/main.9215fbb1.js"
   ]
 }
