@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/creative-mind/static/css/main.4a2b382b.css",
-    "main.js": "/creative-mind/static/js/main.e2a720bd.js",
+    "main.js": "/creative-mind/static/js/main.dd4a7829.js",
     "static/media/1080x1080 Ford.jpg": "/creative-mind/static/media/1080x1080 Ford.ea6dc97acb16ff4b7b43.jpg",
     "static/media/8.mp4": "/creative-mind/static/media/8.696b367b0c5582d51cf0.mp4",
     "static/media/watermelon Ad 01.jpg": "/creative-mind/static/media/watermelon Ad 01.b32168791f2d1f332834.jpg",
     "static/media/01(2).jpg": "/creative-mind/static/media/01(2).85a62a91480dcc000499.jpg",
     "static/media/3D Design (2).jpg": "/creative-mind/static/media/3D Design (2).a0951d5c7ce5e2d54c8d.jpg",
     "static/media/Logo Design (2).jpg": "/creative-mind/static/media/Logo Design (2).24dbc3ab79fe5c2e8304.jpg",
-    "static/media/logo-3d-03.webp": "/creative-mind/static/media/logo-3d-03.fdfb7240ad9ed8c95d2a.webp",
     "static/media/Artboard 13@2x-100.jpg": "/creative-mind/static/media/Artboard 13@2x-100.8216eb97da8b08aac289.jpg",
     "static/media/3D Design (4).jpg": "/creative-mind/static/media/3D Design (4).76d0c109e2e0543666b1.jpg",
     "static/media/card_bg-02.png": "/creative-mind/static/media/card_bg-02.bcb5eb9a6bc7c5dd5518.png",
     "static/media/1920x1920-Post-01.jpg": "/creative-mind/static/media/1920x1920-Post-01.e3f36b27937deb7cc6a4.jpg",
     "static/media/Logo Design (2)1.png": "/creative-mind/static/media/Logo Design (2)1.b411b8627c217555557b.png",
     "static/media/background-03.png": "/creative-mind/static/media/background-03.929d7ebed83ac24df108.png",
+    "static/media/logo-3d.png": "/creative-mind/static/media/logo-3d.1f930d30a2eb64959e1d.png",
     "static/media/Post-13.jpg": "/creative-mind/static/media/Post-13.c4ec09b09be384141f65.jpg",
     "static/media/3.jpg": "/creative-mind/static/media/3.cd1fda56ddcb6da9baf4.jpg",
     "static/media/Logo Design (5).jpg": "/creative-mind/static/media/Logo Design (5).aacb1e13debc6ca9b9a3.jpg",
@@ -61,10 +61,10 @@
     "static/media/youtube-01.svg": "/creative-mind/static/media/youtube-01.3f9f5a50b504732bddc098f1e5e72208.svg",
     "static/media/facebook-01.svg": "/creative-mind/static/media/facebook-01.3a53b2b860c7cce1959dd977013a1cdc.svg",
     "main.4a2b382b.css.map": "/creative-mind/static/css/main.4a2b382b.css.map",
-    "main.e2a720bd.js.map": "/creative-mind/static/js/main.e2a720bd.js.map"
+    "main.dd4a7829.js.map": "/creative-mind/static/js/main.dd4a7829.js.map"
   },
   "entrypoints": [
     "static/css/main.4a2b382b.css",
-    "static/js/main.e2a720bd.js"
+    "static/js/main.dd4a7829.js"
   ]
 }
