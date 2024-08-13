@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/creative-mind/static/css/main.7c9c3b81.css",
-    "main.js": "/creative-mind/static/js/main.65dd915b.js",
+    "main.css": "/creative-mind/static/css/main.4a2b382b.css",
+    "main.js": "/creative-mind/static/js/main.e2a720bd.js",
     "static/media/1080x1080 Ford.jpg": "/creative-mind/static/media/1080x1080 Ford.ea6dc97acb16ff4b7b43.jpg",
     "static/media/8.mp4": "/creative-mind/static/media/8.696b367b0c5582d51cf0.mp4",
     "static/media/watermelon Ad 01.jpg": "/creative-mind/static/media/watermelon Ad 01.b32168791f2d1f332834.jpg",
@@ -13,6 +13,7 @@
     "static/media/3D Design (4).jpg": "/creative-mind/static/media/3D Design (4).76d0c109e2e0543666b1.jpg",
     "static/media/card_bg-02.png": "/creative-mind/static/media/card_bg-02.bcb5eb9a6bc7c5dd5518.png",
     "static/media/1920x1920-Post-01.jpg": "/creative-mind/static/media/1920x1920-Post-01.e3f36b27937deb7cc6a4.jpg",
+    "static/media/Logo Design (2)1.png": "/creative-mind/static/media/Logo Design (2)1.b411b8627c217555557b.png",
     "static/media/background-03.png": "/creative-mind/static/media/background-03.929d7ebed83ac24df108.png",
     "static/media/Post-13.jpg": "/creative-mind/static/media/Post-13.c4ec09b09be384141f65.jpg",
     "static/media/3.jpg": "/creative-mind/static/media/3.cd1fda56ddcb6da9baf4.jpg",
@@ -33,18 +34,24 @@
     "static/media/creative-bg2-01.png": "/creative-mind/static/media/creative-bg2-01.796be51ffb09d9f2ee55.png",
     "static/media/Logo Design (1).jpg": "/creative-mind/static/media/Logo Design (1).265018e98a35aae4e4bf.jpg",
     "static/media/3D Design (1).jpg": "/creative-mind/static/media/3D Design (1).4ab725f6c633c4f7eadf.jpg",
-    "static/media/Logo Design (2).png": "/creative-mind/static/media/Logo Design (2).4cc5948796c5196bd477.png",
+    "static/media/Logo Design (6).png": "/creative-mind/static/media/Logo Design (6).af0ea6ee09ded9e54288.png",
+    "static/media/Logo Design (5)1.png": "/creative-mind/static/media/Logo Design (5)1.68525d155fc7e00d6ee8.png",
     "static/media/FrutigerLTArabic55Roman.ttf": "/creative-mind/static/media/FrutigerLTArabic55Roman.7b95d9859761a1dc918a.ttf",
-    "static/media/Logo Design (3).png": "/creative-mind/static/media/Logo Design (3).f2ad3c40f3e39845362d.png",
+    "static/media/Logo Design (2).png": "/creative-mind/static/media/Logo Design (2).5a6026a2a0b5eb76aa48.png",
     "static/media/Logo Design (6).jpg": "/creative-mind/static/media/Logo Design (6).dae912ebb4dc27821a79.jpg",
-    "static/media/Logo Design (1).png": "/creative-mind/static/media/Logo Design (1).2bedd65782e0ddac55a3.png",
-    "static/media/Logo Design (6).png": "/creative-mind/static/media/Logo Design (6).8aeca17a8df876c2a2b4.png",
-    "static/media/Logo Design (5).png": "/creative-mind/static/media/Logo Design (5).a02f7e7489a6b07775b3.png",
-    "static/media/Logo Design (4).png": "/creative-mind/static/media/Logo Design (4).ba868a08480bbec00c68.png",
+    "static/media/Logo Design (3).png": "/creative-mind/static/media/Logo Design (3).73cb4145cfb98d3ac941.png",
+    "static/media/Logo Design (6)1.png": "/creative-mind/static/media/Logo Design (6)1.da5e854ad6c0e1a1fbfd.png",
+    "static/media/Logo Design (4)1.png": "/creative-mind/static/media/Logo Design (4)1.75a574582a905c768640.png",
+    "static/media/Logo Design (3)1.png": "/creative-mind/static/media/Logo Design (3)1.9d6d4ad4b92349199f6c.png",
+    "static/media/Logo Design (7).png": "/creative-mind/static/media/Logo Design (7).00a103eb3884f4d82473.png",
+    "static/media/Logo Design (1)1.png": "/creative-mind/static/media/Logo Design (1)1.08e0330510445c0bbefd.png",
+    "static/media/Logo Design (4).png": "/creative-mind/static/media/Logo Design (4).6cacc090cf9000e039c5.png",
     "static/media/1bb37dc3-19f7-483a-9619-027b5bc27781.jpg": "/creative-mind/static/media/1bb37dc3-19f7-483a-9619-027b5bc27781.5111d84feb43deb37b92.jpg",
     "static/media/7d1edd42-733b-4f57-9c09-ab9c8a974272.jpg": "/creative-mind/static/media/7d1edd42-733b-4f57-9c09-ab9c8a974272.2f4d3fda2937b47eb5ef.jpg",
     "static/media/logo-white.png": "/creative-mind/static/media/logo-white.b2708d9725de1e937f69.png",
+    "static/media/Logo Design (1).png": "/creative-mind/static/media/Logo Design (1).d4d231b517e734ae349f.png",
     "static/media/Resp-Web-Design-Saudi-1.webp": "/creative-mind/static/media/Resp-Web-Design-Saudi-1.b846112294a3fdab4043.webp",
+    "static/media/Logo Design (5).png": "/creative-mind/static/media/Logo Design (5).498c55967f24a711cdc6.png",
     "static/media/Web-designing-saudi-1 (1).webp": "/creative-mind/static/media/Web-designing-saudi-1 (1).6ab1238ed0ead81d2aa0.webp",
     "static/media/Logo Design (7).jpg": "/creative-mind/static/media/Logo Design (7).bdf133a050629e86aab1.jpg",
     "static/media/logo-02.svg": "/creative-mind/static/media/logo-02.9969ea653f954b0ad3b5cd6f2d981f5c.svg",
@@ -53,11 +60,11 @@
     "index.html": "/creative-mind/index.html",
     "static/media/youtube-01.svg": "/creative-mind/static/media/youtube-01.3f9f5a50b504732bddc098f1e5e72208.svg",
     "static/media/facebook-01.svg": "/creative-mind/static/media/facebook-01.3a53b2b860c7cce1959dd977013a1cdc.svg",
-    "main.7c9c3b81.css.map": "/creative-mind/static/css/main.7c9c3b81.css.map",
-    "main.65dd915b.js.map": "/creative-mind/static/js/main.65dd915b.js.map"
+    "main.4a2b382b.css.map": "/creative-mind/static/css/main.4a2b382b.css.map",
+    "main.e2a720bd.js.map": "/creative-mind/static/js/main.e2a720bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c9c3b81.css",
-    "static/js/main.65dd915b.js"
+    "static/css/main.4a2b382b.css",
+    "static/js/main.e2a720bd.js"
   ]
 }
