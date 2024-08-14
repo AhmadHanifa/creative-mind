@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/creative-mind/static/css/main.c5b41897.css",
-    "main.js": "/creative-mind/static/js/main.88303dea.js",
+    "main.css": "/creative-mind/static/css/main.edbc8d45.css",
+    "main.js": "/creative-mind/static/js/main.f046fb76.js",
     "static/media/1080x1080 Ford.jpg": "/creative-mind/static/media/1080x1080 Ford.ea6dc97acb16ff4b7b43.jpg",
     "static/media/8.mp4": "/creative-mind/static/media/8.696b367b0c5582d51cf0.mp4",
     "static/media/watermelon Ad 01.jpg": "/creative-mind/static/media/watermelon Ad 01.b32168791f2d1f332834.jpg",
@@ -56,16 +56,17 @@
     "static/media/Logo Design (7).jpg": "/creative-mind/static/media/Logo Design (7).bdf133a050629e86aab1.jpg",
     "static/media/logo-02.svg": "/creative-mind/static/media/logo-02.9969ea653f954b0ad3b5cd6f2d981f5c.svg",
     "static/media/instagram-01.svg": "/creative-mind/static/media/instagram-01.da0dd21dbaec97a69e8bdb350daa022f.svg",
+    "static/media/wtsp_new_icn.svg": "/creative-mind/static/media/wtsp_new_icn.bdf25ff429a28c1943a6710edb115019.svg",
     "static/media/linkedin-01.svg": "/creative-mind/static/media/linkedin-01.adb8a14b3fceab0b3d69d36d315ea972.svg",
     "index.html": "/creative-mind/index.html",
     "static/media/youtube-01.svg": "/creative-mind/static/media/youtube-01.3f9f5a50b504732bddc098f1e5e72208.svg",
     "static/media/facebook-01.svg": "/creative-mind/static/media/facebook-01.3a53b2b860c7cce1959dd977013a1cdc.svg",
     "static/media/logo-sign-02.svg": "/creative-mind/static/media/logo-sign-02.6235e347f01e5f77fd0b238c7d0b9f99.svg",
-    "main.c5b41897.css.map": "/creative-mind/static/css/main.c5b41897.css.map",
-    "main.88303dea.js.map": "/creative-mind/static/js/main.88303dea.js.map"
+    "main.edbc8d45.css.map": "/creative-mind/static/css/main.edbc8d45.css.map",
+    "main.f046fb76.js.map": "/creative-mind/static/js/main.f046fb76.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5b41897.css",
-    "static/js/main.88303dea.js"
+    "static/css/main.edbc8d45.css",
+    "static/js/main.f046fb76.js"
   ]
 }
