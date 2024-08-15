@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/creative-mind/static/css/main.edbc8d45.css",
-    "main.js": "/creative-mind/static/js/main.be8b47bd.js",
+    "main.js": "/creative-mind/static/js/main.890c0cdb.js",
     "static/media/1080x1080 Ford.jpg": "/creative-mind/static/media/1080x1080 Ford.ea6dc97acb16ff4b7b43.jpg",
     "static/media/8.mp4": "/creative-mind/static/media/8.696b367b0c5582d51cf0.mp4",
     "static/media/watermelon Ad 01.jpg": "/creative-mind/static/media/watermelon Ad 01.b32168791f2d1f332834.jpg",
@@ -63,10 +63,10 @@
     "static/media/facebook-01.svg": "/creative-mind/static/media/facebook-01.3a53b2b860c7cce1959dd977013a1cdc.svg",
     "static/media/logo-sign-02.svg": "/creative-mind/static/media/logo-sign-02.6235e347f01e5f77fd0b238c7d0b9f99.svg",
     "main.edbc8d45.css.map": "/creative-mind/static/css/main.edbc8d45.css.map",
-    "main.be8b47bd.js.map": "/creative-mind/static/js/main.be8b47bd.js.map"
+    "main.890c0cdb.js.map": "/creative-mind/static/js/main.890c0cdb.js.map"
   },
   "entrypoints": [
     "static/css/main.edbc8d45.css",
-    "static/js/main.be8b47bd.js"
+    "static/js/main.890c0cdb.js"
   ]
 }
